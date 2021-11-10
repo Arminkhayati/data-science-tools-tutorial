@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a20b8cb-1b48-4471-9c97-b63828ff3e16" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="2_Data_structure_DataFrame.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notebooks/2_panda_tut/2_Data_structure_DataFrame.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="8_CM_Concatenating.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notebooks/5_Data_Wrangling/8_CM_Concatenating.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="7_CM_Merg_On_Index.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notebooks/5_Data_Wrangling/7_CM_Merg_On_Index.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="7_Plotting_with_Pandas_Seaborn.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notebooks/6_Plotting/7_Plotting_with_Pandas_Seaborn.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="8_PPS_Line_Plots.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notebooks/6_Plotting/8_PPS_Line_Plots.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="9_PPS_BAR_Plots.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notebooks/6_Plotting/9_PPS_BAR_Plots.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10_PPS_Histogram_n_Density.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/notebooks/6_Plotting/10_PPS_Histogram_n_Density.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>is_list_like</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/notebooks/panda_tut/8_Function_Application.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/panda_tut/8_Functionality_Func_Application.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/panda_tut/9_Functionality_Sorting.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/panda_tut/10_Functionality_DuplicateLabels.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/panda_tut/11_Functionality_Compute.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/panda_tut/12_Computing_Covariance_Corel.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/panda_tut/13_Computing_Unique_Val.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/2_panda_tut/13_Computing_Unique_Val.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/3_data_loading/1_read_write.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/2_panda_tut/1_Data_structure_Series.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/4_Data_Cleaning/2_Mising_Data_Filling.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/4_Data_Cleaning/Transforming_Transform_Data.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/4_Data_Cleaning/5_Transforming_replacing.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/4_Data_Cleaning/6_Transforming_Renaming_Axis.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/4_Data_Cleaning/1_Missing_Data.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/4_Data_Cleaning/3_Transformation_Remove_Dup.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/4_Data_Cleaning/4_Transforming_Transform_Data.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/4_Data_Cleaning/7_Tranfroming_Discretization.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/4_Data_Cleaning/8_Transforming_Detecting_Outliers.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/4_Data_Cleaning/9_Transforming_Permutation.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/4_Data_Cleaning/9_Transforming_Indicator.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/4_Data_Cleaning/10_Transforming_Indicator.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/4_Data_Cleaning/11_String_Methods.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/4_Data_Cleaning/12_String_Regular_Expression.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/4_Data_Cleaning/13_String_Vectorized_Functions.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/5_Data_Wrangling/1_Hierarchical_Indexing.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/5_Data_Wrangling/1_Hierarchical_Indexing_(HI).ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/5_Data_Wrangling/2_HI_Reordering_Sorting.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/5_Data_Wrangling/3_HI_Statistic_by_Level.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/5_Data_Wrangling/4_HI_Indexing_DataFrame_columns.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/5_Data_Wrangling/5_Combining_Megring_Datasets.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/5_Data_Wrangling/6_CM_DbStyle_Joins.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/5_Data_Wrangling/7_CM_Merg_On_Index.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/5_Data_Wrangling/8_CM_Concatenating.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/5_Data_Wrangling/9_CM_Combining_Overlap.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/5_Data_Wrangling/10_Reshaping_Pivoting.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/5_Data_Wrangling/11_RP_Reshaping_with_Hierarchical.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/5_Data_Wrangling/12_RP_Pivoting_Long_toWide.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/5_Data_Wrangling/13_RP_Pivoting_Wide_toLong.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/6_Plotting/1_Brief_Matplotlib.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/6_Plotting/2_BM_Figures_n_Subplots.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/6_Plotting/3_BM_Color_Marker_Style.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/6_Plotting/4_BM_Tick_Lable_Legend.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/6_Plotting/5_BM_Annotations_Drawing.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/6_Plotting/7_Plotting_with_Pandas_Seaborn/7_Plotting_with_Pandas_Seaborn.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/6_Plotting/7_Plotting_with_Pandas_Seaborn.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/6_Plotting/8_PPS_Line_Plots.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/6_Plotting/9_PPS_BAR_Plots.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/6_Plotting/10_PPS_Histogram_n_Density.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/6_Plotting/11_PPS_Scatter_or_Point.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/6_Plotting/12_PPS_FacetGrids_n_Categorical.ipynb" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="6" />
+    <option name="y" value="25" />
+    <option name="width" value="1354" />
+    <option name="height" value="739" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="newKeras" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newKeras" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newKeras" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newKeras" type="462c0819:PsiDirectoryNode" />
+              <item name="notebooks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newKeras" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newKeras" type="462c0819:PsiDirectoryNode" />
+              <item name="notebooks" type="462c0819:PsiDirectoryNode" />
+              <item name="6_Plotting" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Mura" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/notebooks/6_Plotting" />
+      <recent name="$PROJECT_DIR$/notebooks/numpy_tut" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="newKeras" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="newKeras" type="PythonConfigurationType" factoryName="Python">
+      <module name="newKeras" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/App/anaconda3/envs/newKeras/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a20b8cb-1b48-4471-9c97-b63828ff3e16" name="Default" comment="" />
+      <created>1532291706312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532291706312</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="25" width="1362" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32970452" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49300155" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/notebooks/2_panda_tut/12_Computing_Covariance_Corel.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/App/anaconda3/envs/newKeras/lib/python3.6/site-packages/pandas/core/indexes/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-111">
+          <caret line="182" column="6" selection-start-line="182" selection-start-column="6" selection-end-line="182" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/2_panda_tut/10_Functionality_DuplicateLabels.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/2_panda_tut/13_Computing_Unique_Val.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/3_data_loading/example/ex1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/2_panda_tut/3_Functionality_Reindex.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/2_panda_tut/1_Data_structure.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/4_Data_Cleaning/Transforming_Transform_Data.ipynb" />
+    <entry file="file://$PROJECT_DIR$/notebooks/4_Data_Cleaning/1_Missing_Data_Filtering.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/4_Data_Cleaning/1_Missing_Data.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/4_Data_Cleaning/2_Mising_Data_Filling.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/4_Data_Cleaning/3_Transformation_Remove_Dup.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/4_Data_Cleaning/4_Transforming_Transform_Data.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/4_Data_Cleaning/5_Transforming_replacing.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/4_Data_Cleaning/6_Transforming_Renaming_Axis.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/4_Data_Cleaning/7_Tranfroming_Discretization.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/4_Data_Cleaning/8_Transforming_Detecting_Outliers.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/4_Data_Cleaning/10_Transforming_Indicator.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/4_Data_Cleaning/11_String_Methods.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/4_Data_Cleaning/12_String_Regular_Expression.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/4_Data_Cleaning/13_String_Vectorized_Functions.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/training.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/5_Data_Wrangling/1_Hierarchical_Indexing_(HI).ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/5_Data_Wrangling/2_HI_Reordering_Sorting.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/5_Data_Wrangling/6_CM_DbStyle_Joins.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/5_Data_Wrangling/10_Reshaping_Pivoting.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/5_Data_Wrangling/11_RP_Reshaping_with_Hierarchical.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/5_Data_Wrangling/12_RP_Pivoting_Long_toWide.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/5_Data_Wrangling/13_RP_Pivoting_Wide_toLong.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/6_Plotting/1_Brief_Matplotlib.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/6_Plotting/3_BM_Color_Marker_Style.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/6_Plotting/4_BM_Tick_Lable_Legend.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/6_Plotting/2_BM_Figures_n_Subplots.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/6_Plotting/5_BM_Annotations_Drawing.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/6_Plotting/12_PPS_FacetGrids_n_Categorical.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/6_Plotting/11_PPS_Scatter_or_Point.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/3_data_loading/1_read_write.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/2_panda_tut/5_Functionality_Selection.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/5_Data_Wrangling/5_Combining_Megring_Datasets.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/5_Data_Wrangling/4_HI_Indexing_DataFrame_columns.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/5_Data_Wrangling/3_HI_Statistic_by_Level.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/5_Data_Wrangling/9_CM_Combining_Overlap.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/4_Data_Cleaning/9_Transforming_Permutation.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/2_panda_tut/1_Data_structure_Series.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/2_panda_tut/2_Data_structure_DataFrame.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/5_Data_Wrangling/8_CM_Concatenating.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/5_Data_Wrangling/7_CM_Merg_On_Index.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/6_Plotting/7_Plotting_with_Pandas_Seaborn.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/6_Plotting/8_PPS_Line_Plots.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/6_Plotting/9_PPS_BAR_Plots.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/6_Plotting/10_PPS_Histogram_n_Density.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
